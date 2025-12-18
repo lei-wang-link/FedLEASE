@@ -101,10 +101,10 @@ FedLEASE_code/
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{wang2025adaptive,
+@inproceedings{fedlease2025,
   title={Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning},
   author={Wang, Lei and Bian, Jieming and Zhang, Letian and Xu, Jie},
-  journal={arXiv preprint arXiv:2509.15087},
+  journal={The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)},
   year={2025}
 }
 ```
