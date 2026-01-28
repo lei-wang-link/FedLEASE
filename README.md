@@ -1,4 +1,4 @@
-# FedLEASE: Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning
+# Adaptive LoRA Experts Allocation and Selection for Federated Fine-Tuning
 
 **Accepted by NeurIPS 2025**
 
