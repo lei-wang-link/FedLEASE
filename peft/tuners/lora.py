@@ -564,7 +564,7 @@ class Linear8bitLt(bnb.nn.Linear8bitLt, LoraLayer):
                             
                             expert_weights = top_k_weights[:, :, idx_k]
                             expert_weights = torch.unsqueeze(expert_weights, -1)
-                                                        for i in range(self.lora_num):
+                            for i in range(self.lora_num):
                                 mask = (expert_indices == i)
                                 if not mask.any():
                                     continue
